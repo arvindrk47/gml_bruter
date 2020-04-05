@@ -18,7 +18,7 @@ python3 gml_bruter.py  (use python3 version to run this python setup)
 
 # Run the setup
 
-Enter the Target Email : xxxxxx@gmail.com
+Enter the Target Email : kkkkkkkkk@gmail.com
 Enter the password file : (use the given password.lst file)
 
 
