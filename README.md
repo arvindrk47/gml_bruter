@@ -1,5 +1,5 @@
 # gml_bruter
-This python script helps to crack the security keys using brute force attack method. 
+This python script helps to crack the gmail or other email services security keys using brute force attack method. 
 
 # Installation
 git clone https://github.com/darkarrow428/gml_bruter
